@@ -1,0 +1,11 @@
+{
+  "name": "cbcbank-jsonserver",
+  "version": "1.0.0",
+  "description": "- Technologies : HTML, CSS, JavaScript and JSON Server",
+  "main": "script.js",
+  "scripts": {
+    "start": ""
+  },
+  "author": "",
+  "license": "ISC"
+}
